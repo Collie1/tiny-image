@@ -5,7 +5,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #endif
 
-#include "tinyimage.h"
+#include <tinyimage/tinyimage.h>
 
 #include <stdio.h>
 #include <string.h>

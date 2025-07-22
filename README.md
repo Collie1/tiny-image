@@ -1,6 +1,10 @@
 # TinyImage
 A tiny C/C++ image loading and saving library for graphics APIs.
 
+## CMake Compatible
+Just do add_subdirectory()
+link it and include it and your good to go
+
 ## Before using
 Directly download this repository to your computer.
 
